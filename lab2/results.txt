@@ -1,0 +1,3 @@
+Elapsed time: 2120.90 ms, Sent bytes: 1500
+Elapsed time: 1937.48 ms, Sent bytes: 5200
+Elapsed time: 2332.08 ms, Sent bytes: 750
